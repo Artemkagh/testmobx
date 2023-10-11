@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testmobx/static/css/main.b5be988d.css",
+    "main.js": "/testmobx/static/js/main.c05089af.js",
+    "index.html": "/testmobx/index.html",
+    "main.b5be988d.css.map": "/testmobx/static/css/main.b5be988d.css.map",
+    "main.c05089af.js.map": "/testmobx/static/js/main.c05089af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5be988d.css",
+    "static/js/main.c05089af.js"
+  ]
+}
